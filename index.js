@@ -297,7 +297,7 @@ const DASHBOARD_WELCOME_STAR_URL = 'https://files.catbox.moe/9xwggq.png';
 //                                      while the welcome screen is open
 //   DASHBOARD_BOOT_BUTTON_SOUND_URL -> short "tap" sound played once
 //                                      when "TAP TO CONTINUE" is pressed
-const DASHBOARD_WELCOME_MUSIC_URL = '';
+const DASHBOARD_WELCOME_MUSIC_URL = 'https://files.catbox.moe/rw39b9.mp3';
 const DASHBOARD_BOOT_BUTTON_SOUND_URL = '';
 
 // How loud the background music plays, from 0 (silent) to 1 (full).
